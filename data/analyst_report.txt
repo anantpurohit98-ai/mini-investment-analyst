@@ -1,0 +1,84 @@
+
+Company: ICICI Bank
+Score: 0.7
+Rating: HOLD
+
+Growth: 26.99%
+ROE: 16.26%
+Return: 12.33%
+Volatility: 18.74%
+Debt/Equity: 0.65
+
+Moderate growth with acceptable risk. Maintain position.
+
+-------------------------
+
+Company: HDFC Bank
+Score: 0.56
+Rating: HOLD
+
+Growth: 19.36%
+ROE: 8.77%
+Return: 13.32%
+Volatility: 17.94%
+Debt/Equity: 0.95
+
+Moderate growth with acceptable risk. Maintain position.
+
+-------------------------
+
+Company: ITC
+Score: 0.5
+Rating: HOLD
+
+Growth: 10.78%
+ROE: 49.62%
+Return: -26.79%
+Volatility: 18.59%
+Debt/Equity: 0.0
+
+Moderate growth with acceptable risk. Maintain position.
+
+-------------------------
+
+Company: Reliance
+Score: 0.44
+Rating: AVOID
+
+Growth: 7.06%
+ROE: 8.26%
+Return: 14.55%
+Volatility: 20.8%
+Debt/Equity: 0.44
+
+Weak risk-adjusted profile. Avoid fresh exposure.
+
+-------------------------
+
+Company: TCS
+Score: 0.43
+Rating: AVOID
+
+Growth: 5.99%
+ROE: 51.24%
+Return: -24.74%
+Volatility: 20.98%
+Debt/Equity: 0.1
+
+Weak risk-adjusted profile. Avoid fresh exposure.
+
+-------------------------
+
+Company: Infosys
+Score: 0.28
+Rating: AVOID
+
+Growth: 3.85%
+ROE: 28.18%
+Return: -16.74%
+Volatility: 24.02%
+Debt/Equity: 0.09
+
+Weak risk-adjusted profile. Avoid fresh exposure.
+
+-------------------------
