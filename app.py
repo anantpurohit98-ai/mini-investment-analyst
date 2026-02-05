@@ -4,6 +4,12 @@ import pandas as pd
 import numpy as np
 from io import BytesIO
 
+@st.cache_data(ttl=3600)  # cache data for 1 hour
+def get_stock_data(ticker):
+    info, hist = get_stock_data(ticker)
+    return info, hist
+
+
 st.set_page_config(page_title="Mini Investment Analyst", layout="wide")
 st.title("📊 Mini Investment Analyst")
 
@@ -51,9 +57,8 @@ if st.button("🚀 Run Analysis") and st.session_state.companies:
 
     for ticker in st.session_state.companies:
 
-        stock = yf.Ticker(ticker)
-        info = stock.info
-        hist = stock.history(period="1y")
+        info, hist = get_stock_data(ticker)
+
 
         if hist.empty:
             continue
